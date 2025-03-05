@@ -1,4 +1,5 @@
 1.	Título del Proyecto: Juego del Amigo Secreto. 
+
 2.	Descripción: Este juego se basa en elegir un nombre aleatorio dentro de los nombres que el usuario escriba y mande a la página. 
 3.	Pasos a seguir con la instalación:
     1-	Clonar el repositorio: git clone https://github.com/isobarico/amigo-secreto.git
